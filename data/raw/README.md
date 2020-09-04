@@ -1,1 +1,0 @@
-Data is from John Hopkins University
