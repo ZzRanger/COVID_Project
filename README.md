@@ -13,6 +13,11 @@ the spread of COVID, and a data visualization of state COVID trends.
 
 ## Contents
 
+- ### Data
+    - The data used for this project was taken from John Hopkins University and the COVID Tracking Project. Links can be found below
+        - https://covidtracking.com/
+        - https://github.com/CSSEGISandData/COVID-19
+
 - ### Models
 
     - **LSTM:** An LSTM Neural Network model was used to predict global COVID cases.
@@ -22,6 +27,7 @@ the spread of COVID, and a data visualization of state COVID trends.
                 
     - **Gaussian:** A Gaussian Error Function was used to predict US COVID deaths.
 
+- ### Visualizations
     - **State Visualizations:** Data Visualizations of COVID trends in US States
 ---
 
