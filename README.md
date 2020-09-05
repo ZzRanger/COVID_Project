@@ -30,6 +30,7 @@ the spread of COVID, and a data visualization of state COVID trends.
 - **Gaussian:** A Gaussian Error Function was used to predict US COVID deaths.
 
 
+
 ### Visualizations
     
     
