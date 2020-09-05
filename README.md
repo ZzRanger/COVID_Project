@@ -1,11 +1,5 @@
 # COVID - 19 Data Science Project
 
-> Subtitle or Short Description Goes Here
-
-> ideally one sentence
-
-> include terms/tags that can be searched
-
 This repository is an ongoing COVID - 19 data science project, containing 3 models to predict 
 the spread of COVID, and a data visualization of state COVID trends.
 
@@ -14,8 +8,12 @@ the spread of COVID, and a data visualization of state COVID trends.
 ## Contents
 
 - ### Data
+    
+    
     - The data used for this project was taken from John Hopkins University and the COVID Tracking Project. Links can be found below
-        - https://covidtracking.com/
+       
+       - https://covidtracking.com/
+        
         - https://github.com/CSSEGISandData/COVID-19
 
 - ### Models
