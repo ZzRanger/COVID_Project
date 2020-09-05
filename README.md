@@ -13,7 +13,7 @@ the spread of COVID, and a data visualization of state COVID trends.
 
 ## Contents
 
--### Models
+- ### Models
 
     - **LSTM:** An LSTM Neural Network model was used to predict global COVID cases.
     
