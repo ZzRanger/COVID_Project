@@ -182,7 +182,7 @@ def graph_model(b, g, time):
     ax.plot(t, R, label = "Recovered")
     ax.set_title("Example SIR Graph")
     ax.set_ylabel("% of population")
-    ax.set_xlabel("Time (in days)")
+    ax.set_xlabel("Dates")
     ax.legend()
     return fig, ax
 
@@ -256,7 +256,7 @@ def graph_scipy(country, i_countries, r_countries, b, g, cutoff):
     
     # Graph Info
     ax.set_title(country + ' SIR Model Predictions: Infected')
-    ax.set_xlabel('Time / days')
+    ax.set_xlabel('Dates')
     ax.set_ylabel('Infected (% of population)')
     
     # Graph Models
@@ -287,7 +287,7 @@ def graph_scipy(country, i_countries, r_countries, b, g, cutoff):
     
     # Graph Info
     ax.set_title(country + ' SIR Model Predictions: Recovered')
-    ax.set_xlabel('Time / days')
+    ax.set_xlabel('Dates')
     ax.set_ylabel('Recovered (% of population)')
 
     # Graph Models
