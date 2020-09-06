@@ -1,7 +1,7 @@
 # COVID - 19 Data Science Project	
 
 
-## Contents	- notebook: Storing all notebooks includeing EDA and modeling stage.
+## Contents	
 
 
 ### Data	
