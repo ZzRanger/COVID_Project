@@ -54,7 +54,7 @@ def gen_us_trends(us_hospital_data):
     ax.set_xticklabels(labels = labels, rotation = 90)
 
     # Set title
-    ax.set_title('US % Positive Rate')
+    ax.set_title('US COVID Test Positivity Rate')
     ax.set_ylabel('% Tests Positive')
     ax.set_xlabel('Date')
 
@@ -221,7 +221,7 @@ def state_heat_map(state_df, pos_df):
                         hover_name = "hover_name", # DataFrame column hover info
                         locationmode = 'USA-states') # Set to plot as US States
     fig2.update_layout(
-        title_text = 'Weekly % Change of COVID Pos. Rate in US States', # Create a Title
+        title_text = 'Weekly % Change of COVID Test Positivity Rate in US States', # Create a Title
         geo_scope='usa',  # Plot only the USA instead of globe
     )
 
