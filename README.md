@@ -35,7 +35,7 @@ This repository is an ongoing COVID - 19 data science project, containing 3 mode
 ### Visualizations	
 
 
-**State Visualizations:** Data Visualizations of COVID trends in US States	
+- **State Visualizations:** Data Visualizations of COVID trends in US States	
 
 
 ## Acknowledgements
