@@ -33,7 +33,7 @@
 **State Visualizations:** Data Visualizations of COVID trends in US States	
 
 
----	
+## Acknowledgements
 
 
 Special thanks to Dr. Yusuf Uddin and Mr. Arnan Arefeen from UMKC for their suggestions and feedback 	
