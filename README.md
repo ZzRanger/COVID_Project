@@ -2,8 +2,7 @@
 
 
 
-This repository is an ongoing COVID - 19 data science project, containing 3 models to predict 	Here is the explantation of folder strucure:
-the spread of COVID, and a data visualization of state COVID trends.
+This repository is an ongoing COVID - 19 data science project, containing 3 models to predict the spread of COVID, and a data visualization of state COVID trends.
 
 
 
