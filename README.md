@@ -41,5 +41,5 @@ This repository is an ongoing COVID - 19 data science project, containing 3 mode
 ## Acknowledgements
 
 
-Special thanks to Dr. Yusuf Uddin and Mr. Arnan Arefeen from UMKC for their suggestions and feedback 	
+Special thanks to Dr. Yusuf Uddin and Mr. Adnan Arefeen from UMKC for their suggestions and feedback 	
 for this project.
